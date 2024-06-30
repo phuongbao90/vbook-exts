@@ -3,27 +3,27 @@ function execute() {
     { title: "最新更新", input: "/last", script: "update.js" },
     {
       title: "全部分类",
-      input: "/ajax_novels/newhot/0/{0}.htm",
+      input: "/ajax_novels/newhot_2_0_1.htm",
       script: "gen.js",
     },
     {
       title: "言情小说",
-      input: "/ajax_novels/newhot/3/{0}.htm",
+      input: "/ajax_novels/newhot_2_0_1.htm",
       script: "gen.js",
     },
     {
       title: "玄幻魔法",
-      input: "/ajax_novels/newhot/1/{0}.htm",
+      input: "/ajax_novels/newhot_2_0_1.htm",
       script: "gen.js",
     },
     {
       title: "修真武侠",
-      input: "/ajax_novels/newhot/2/{0}.htm",
+      input: "/ajax_novels/newhot_2_0_1.htm",
       script: "gen.js",
     },
     {
       title: "穿越时空",
-      input: "/ajax_novels/newhot/11/{0}.htm",
+      input: "/ajax_novels/newhot_2_0_1.htm",
       script: "gen.js",
     },
     {

@@ -5,10 +5,10 @@
   },
   "data": [
     {
-      "name": "69shu",
+      "name": "69shu-npb",
       "author": "npb",
       "path": "https://raw.githubusercontent.com/phuongbao90/vbook-exts/master/69shu/plugin.zip",
-      "version": 1000009,
+      "version": 1000010,
       "source": "https://69shu.com",
       "icon": "https://raw.githubusercontent.com/phuongbao90/vbook-exts/master/69shu/icon.png",
       "description": "Đọc truyện trên trang https://96shu.net",
