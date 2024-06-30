@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "96Shu.net",
+    "author": "npb",
+    "version": 1,
+    "source": "https://www.96shu.net",
+    "regexp": "(www.)?96shu.net/book/\\d+/?",
+    "description": "Đọc truyện trên trang 96shu.net",
+    "locale": "zh-CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
