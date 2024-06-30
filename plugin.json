@@ -7,10 +7,10 @@
     {
       "name": "96Shu",
       "author": "npb",
-      "path": "https://raw.githubusercontent.com/phuongbao90/vbook-exts/master/96shu.net-npb/plugin.zip",
+      "path": "https://raw.githubusercontent.com/phuongbao90/vbook-exts/master/69shu/plugin.zip",
       "version": 1000006,
       "source": "https://96shu.net",
-      "icon": "https://raw.githubusercontent.com/phuongbao90/vbook-exts/master/96shu.net-npb/icon.png",
+      "icon": "https://raw.githubusercontent.com/phuongbao90/vbook-exts/master/69shu/icon.png",
       "description": "Đọc truyện trên trang https://96shu.net",
       "type": "chinese_novel",
       "locale": "zh_CN"
