@@ -2,7 +2,7 @@
   "metadata": {
     "name": "96shu",
     "author": "B",
-    "version": 1000006,
+    "version": 1000007,
     "source": "https://96shu.net",
     "regexp": "69shu\\.net/(txt|book)/.*?\\.html",
     "description": "Đọc truyện trên trang 96shu",
