@@ -2,7 +2,7 @@
   "metadata": {
     "name": "96Shu.net",
     "author": "npb",
-    "version": 1,
+    "version": 1000001,
     "source": "https://www.96shu.net",
     "regexp": "(www.)?96shu.net/book/\\d+/?",
     "description": "Đọc truyện trên trang 96shu.net",
