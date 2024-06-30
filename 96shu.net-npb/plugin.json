@@ -1,20 +1,21 @@
 {
   "metadata": {
-    "name": "96Shu.net",
-    "author": "npb",
-    "version": 1000001,
-    "source": "https://www.96shu.net",
-    "regexp": "(www.)?96shu.net/book/\\d+/?",
-    "description": "Đọc truyện trên trang 96shu.net",
-    "locale": "zh-CN",
+    "name": "96shuX",
+    "author": "B",
+    "version": 4,
+    "source": "https://96shuX.net",
+    "regexp": "69shux\\.com/(txt|book)/.*?\\.html",
+    "description": "Đọc truyện trên trang 96shuX",
+    "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
   },
   "script": {
     "home": "home.js",
     "detail": "detail.js",
-    "page": "page.js",
     "toc": "toc.js",
-    "chap": "chap.js"
+    "chap": "chap.js",
+    "genre": "genre.js",
+    "search": "search.js"
   }
 }
