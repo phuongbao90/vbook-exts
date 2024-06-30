@@ -6,7 +6,6 @@ function execute(url) {
     /^(?:https?:\/\/)?(?:[^@]+@)?(?:www\.)?([^:\/?]+)/gim,
     BASE_URL
   );
-  url = url.replace("/book/", "/txt/");
 
   let response = fetch(url);
   if (response.ok) {
